@@ -7,13 +7,22 @@ A structured learning repository documenting my journey in Artificial Intelligen
 ai-ml-learning/
 │
 ├── Python Libraries/
-│   ├── Numpy/
-│   │   ├── numpy_core_fundamentals.ipynb
-│   │   └── numpy_math_and_vectorization.ipynb
+│   ├── beautifulsoup/
+│   ├── NumPy/
+│   ├── Pandas/
+│   ├── Requests/
 │
-├── Machine Learning/        (upcoming)
+├── web scraping/
+│   ├── scraped-data/
+│   │   └── (raw HTML files)
+│   │
+│   ├── cleaned-data/
+│   │   └── (processed CSV files)
+│   │
+│   ├── web-scraping.ipynb
 │
 └── README.md
+
 ```
 
 
